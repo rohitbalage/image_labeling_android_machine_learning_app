@@ -110,13 +110,13 @@ class MainActivity : AppCompatActivity() {
 
         //TODO initialize Image Labeler
         // To use default options:
-         labeler = ImageLabeling.getClient(ImageLabelerOptions.DEFAULT_OPTIONS)
+//         labeler = ImageLabeling.getClient(ImageLabelerOptions.DEFAULT_OPTIONS)
 
 // Or, to set the minimum confidence required:
-// val options = ImageLabelerOptions.Builder()
-//     .setConfidenceThreshold(0.7f)
-//     .build()
-// val labeler = ImageLabeling.getClient(options)
+ val options = ImageLabelerOptions.Builder()
+     .setConfidenceThreshold(0.75f)
+     .build()
+       labeler = ImageLabeling.getClient(options)
 
     }
 
@@ -144,7 +144,7 @@ class MainActivity : AppCompatActivity() {
                     val text = label.text
                     val confidence = label.confidence
                     val index = label.index
-                    resultTv.append(text+"  "+confidence+"\n")
+                    resultTv.append(text+"  "+String.format("%.2f", confidence)+"\n")
                 }
             }
             .addOnFailureListener { e ->

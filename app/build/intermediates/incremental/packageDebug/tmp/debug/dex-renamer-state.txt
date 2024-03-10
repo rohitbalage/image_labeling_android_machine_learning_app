@@ -1,8 +1,8 @@
-#Sun Mar 10 04:52:25 EDT 2024
-base.0=C\:\\Users\\Admin\\Downloads\\ImageLabelingImagesKotlinStarter2023-main\\ImageLabelingImagesKotlinStarter2023-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Admin\\Downloads\\ImageLabelingImagesKotlinStarter2023-main\\ImageLabelingImagesKotlinStarter2023-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\Admin\\Downloads\\ImageLabelingImagesKotlinStarter2023-main\\ImageLabelingImagesKotlinStarter2023-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.3=C\:\\Users\\Admin\\Downloads\\ImageLabelingImagesKotlinStarter2023-main\\ImageLabelingImagesKotlinStarter2023-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Sun Mar 10 06:33:49 EDT 2024
+base.0=D\:\\Machine Learning\\Android based apps\\ImageLabelingImagesKotlin\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\Machine Learning\\Android based apps\\ImageLabelingImagesKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\Machine Learning\\Android based apps\\ImageLabelingImagesKotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=D\:\\Machine Learning\\Android based apps\\ImageLabelingImagesKotlin\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=14/classes.dex

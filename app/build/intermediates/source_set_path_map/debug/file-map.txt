@@ -24,11 +24,11 @@ com.example.imagelabelingimageskotlin.app-emoji2-views-helper-1.2.0-22 C:\Users\
 com.example.imagelabelingimageskotlin.app-cardview-1.0.0-23 C:\Users\Admin\.gradle\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\res
 com.example.imagelabelingimageskotlin.app-recyclerview-1.1.0-24 C:\Users\Admin\.gradle\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\res
 com.example.imagelabelingimageskotlin.app-appcompat-1.6.1-25 C:\Users\Admin\.gradle\caches\transforms-3\e0ba1d9d904526edc9af5fbde8bfb3b2\transformed\appcompat-1.6.1\res
-com.example.imagelabelingimageskotlin.app-pngs-26 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\generated\res\pngs\debug
-com.example.imagelabelingimageskotlin.app-resValues-27 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\generated\res\resValues\debug
-com.example.imagelabelingimageskotlin.app-rs-28 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\generated\res\rs\debug
-com.example.imagelabelingimageskotlin.app-packageDebugResources-29 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.imagelabelingimageskotlin.app-packageDebugResources-30 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.imagelabelingimageskotlin.app-merged_res-31 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\build\intermediates\merged_res\debug
-com.example.imagelabelingimageskotlin.app-debug-32 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\debug\res
-com.example.imagelabelingimageskotlin.app-main-33 C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\res
+com.example.imagelabelingimageskotlin.app-pngs-26 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\generated\res\pngs\debug
+com.example.imagelabelingimageskotlin.app-resValues-27 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\generated\res\resValues\debug
+com.example.imagelabelingimageskotlin.app-rs-28 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\generated\res\rs\debug
+com.example.imagelabelingimageskotlin.app-packageDebugResources-29 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.imagelabelingimageskotlin.app-packageDebugResources-30 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.imagelabelingimageskotlin.app-merged_res-31 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\build\intermediates\merged_res\debug
+com.example.imagelabelingimageskotlin.app-debug-32 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\debug\res
+com.example.imagelabelingimageskotlin.app-main-33 D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\res

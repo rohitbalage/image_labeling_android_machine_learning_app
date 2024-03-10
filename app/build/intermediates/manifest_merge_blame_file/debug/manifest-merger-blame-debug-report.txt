@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml
+8-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml
+9-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:4:5-64
-11-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:4:22-62
+11-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:4:5-64
+11-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:4:22-62
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:5:5-80
-12-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:5:22-78
+12-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:5:5-80
+12-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:5:22-78
 13
 14    <!-- For allowlist service -->
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -37,38 +37,38 @@
 22-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\transforms-3\9feccff26fa5daf5ca3505d60b0f88b6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 23
 24    <application
-24-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:7:5-23:19
+24-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:7:5-23:19
 25        android:allowBackup="true"
-25-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:8:9-35
+25-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:8:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\transforms-3\9feccff26fa5daf5ca3505d60b0f88b6\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 27        android:debuggable="true"
 28        android:icon="@mipmap/ic_launcher"
-28-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:9:9-43
+28-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:9:9-43
 29        android:label="@string/app_name"
-29-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:10:9-41
+29-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:10:9-41
 30        android:roundIcon="@mipmap/ic_launcher_round"
-30-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:11:9-54
+30-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:11:9-54
 31        android:supportsRtl="true"
-31-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:12:9-35
+31-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:12:9-35
 32        android:testOnly="true"
 33        android:theme="@style/Theme.ImageLabelingImagesKotlin" >
-33-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:13:9-63
+33-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:13:9-63
 34        <activity
-34-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:14:9-22:20
+34-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:14:9-22:20
 35            android:name="com.example.imagelabelingimageskotlin.MainActivity"
-35-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:15:13-41
+35-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:15:13-41
 36            android:exported="true" >
-36-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:16:13-36
+36-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:16:13-36
 37            <intent-filter>
-37-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:17:13-21:29
+37-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:17:13-21:29
 38                <action android:name="android.intent.action.MAIN" />
-38-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:18:17-69
-38-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:18:25-66
+38-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:18:17-69
+38-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:18:25-66
 39
 40                <category android:name="android.intent.category.LAUNCHER" />
-40-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:20:17-77
-40-->C:\Users\Admin\Downloads\ImageLabelingImagesKotlinStarter2023-main\ImageLabelingImagesKotlinStarter2023-main\app\src\main\AndroidManifest.xml:20:27-74
+40-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:20:17-77
+40-->D:\Machine Learning\Android based apps\ImageLabelingImagesKotlin\app\src\main\AndroidManifest.xml:20:27-74
 41            </intent-filter>
 42        </activity>
 43
